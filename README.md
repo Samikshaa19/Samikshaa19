@@ -4,7 +4,8 @@
 Welcome to my digital space, where **code meets creativity** and **logic fuels innovation**.  
  I'm **Samiksha Gupta** who loves building **scalable software solutions**, **engineering data pipelines**, and making sense of **complex systems**!  
 
-📍 Based in **Boston, MA** | **MS in Information Systems @ Northeastern University**  | **Ex-LTIMindtree**
+📍 Based in **Boston, MA** | **MS in Information Systems @ Northeastern University** | **Ex-LTIMindtree**
+
 💡 Curious mind | 🔥 Passionate problem-solver | 🎯 Always learning 
 
 ---
